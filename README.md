@@ -1,1 +1,1 @@
-# Sequence-to-text-
+# Sequence-to-text 기법
