@@ -53,18 +53,16 @@
 The paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was published by Alan Turing in 1936. In this groundbreaking paper, Turing introduced the concept of a universal computing machine, now known as the Turing machine.
 
 ## Objective
-Turing's main objective in this paper was to investigate the notion of computability and its relation to the Entscheidungsproblem (the decision problem), which is concerned with determining whether a given mathematical statement is provable or not.
+이 논문에서의 주요 목표는 시계열 데이터의 패턴을 언어 모델로 학습하고 분류 예측에 사용하는 것입니다.
 
 
 ## Key Ideas
-1. Turing first presented the concept of a "computable number," which refers to a number that can be computed by an algorithm or a definite step-by-step process.
-2. He introduced the notion of a Turing machine, an abstract computational device consisting of an infinite tape divided into cells and a read-write head. The machine can read and write symbols on the tape, move the head left or right, and transition between states based on a set of rules.
-3. Turing demonstrated that the set of computable numbers is enumerable, meaning it can be listed in a systematic way, even though it is not necessarily countable.
-4. He proved the existence of non-computable numbers, which cannot be computed by any Turing machine.
-5. Turing showed that the Entscheidungsproblem is undecidable, meaning there is no algorithm that can determine, for any given mathematical statement, whether it is provable or not.
+1. 연속된 시계열 데이터를 시퀀스 형태로 나열한 후 언어 모델이 이해할 수 있는 텍스트 형태로 변환합니다.
+2. 단순히 순차적 행동을 텍스트로 나열하는 것이 아니라, 요약 정보를 문장 초두에 함께 제시합니다.
+3. 사전 학습된 언어 모델을 HuggingFace로부터 불러와 분류 과제를 학습하여 예측을 수행합니다.
+4. 동일한 정보량이 주어졌을 때, 언어 모델과 머신러닝 모델의 예측 성능을 비교합니다.
 
-![sequence-to-text](./images/preprocess_figure1.png)
-
+<img src="./images/preprocess_figure1.png" alt="sequence-to-text" width="400"/>
 *Figure 1: Data preprocessing from sequence to text. Source: [논문링크](link).*
 
 ## Table: Comparison of Computable and Non-Computable Numbers
