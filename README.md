@@ -63,7 +63,7 @@ Turing's main objective in this paper was to investigate the notion of computabi
 4. He proved the existence of non-computable numbers, which cannot be computed by any Turing machine.
 5. Turing showed that the Entscheidungsproblem is undecidable, meaning there is no algorithm that can determine, for any given mathematical statement, whether it is provable or not.
 
-![Turing Machine](/static/image/Turing_machine.png)
+![Turing Machine](/img/preprocessing_figure1.png)
 
 *Figure 1: A representation of a Turing Machine. Source: [Wiki](https://en.wikipedia.org/wiki/Turing_machine).*
 
