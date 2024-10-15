@@ -1,5 +1,11 @@
 # Comparison of Classification Performance of Language Models using Sequence-to-Text Techniques
 
+<h3 align='center'> 한국데이터정보과학회지 게재 논문 </h3>
+
+<h2 align='center'> Sequence-to-text 기법을 활용한
+
+언어 모델의 분류 성능 비교 </h2>
+
 <br>   
 <div align='center'>
 <table>
