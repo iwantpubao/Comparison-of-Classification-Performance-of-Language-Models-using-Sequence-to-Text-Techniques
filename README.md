@@ -84,7 +84,7 @@
 
 ## Citation
 ```
-@article{turing1936computable,
+@article{?,
   title={Comparison of Classification Performance of Language Models using Sequence-to-Text Techniques},
   author={Kim, M., Kim, Y., Min, J., Seong, H., and Jung, Y.},
   journal={Journal of the Korean Data & Information Science Society.},
