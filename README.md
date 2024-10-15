@@ -64,32 +64,33 @@
 
 <p align="center">
   <img src="./images/preprocess_figure1.png" alt="sequence-to-text" width="800"/>
-  *Figure 1: Data preprocessing from sequence to text. Source: [논문링크](link).*
+</p>
+<p align="center">
+    *Figure 1: Data preprocessing from sequence to text. Source: [논문링크](link).*
 </p>
 
-## Table: Comparison of Computable and Non-Computable Numbers
+## Table: Comparison of Language models and Machine learning models
 
-| Computable Numbers | Non-Computable Numbers |
+| Language models | Machine learning models |
 |-------------------|-----------------------|
-| Rational numbers, e.g., 1/2, 3/4 | Transcendental numbers, e.g., π, e |
-| Algebraic numbers, e.g., √2, ∛3 | Non-algebraic numbers, e.g., √2 + √3 |
-| Numbers with finite decimal representations | Numbers with infinite, non-repeating decimal representations |
+| a | b|
+| a | b |
+| a | b |
 
-He used the concept of a universal Turing machine to prove that the set of computable functions is recursively enumerable, meaning it can be listed by an algorithm.
+내용
 
 ## Significance
-Turing's paper laid the foundation for the theory of computation and had a profound impact on the development of computer science. The Turing machine became a fundamental concept in theoretical computer science, serving as a theoretical model for studying the limits and capabilities of computation. Turing's work also influenced the development of programming languages, algorithms, and the design of modern computers.
+내용
 
 ## Citation
 ```
 @article{turing1936computable,
-  title={On computable numbers, with an application to the Entscheidungsproblem},
-  author={Turing, Alan Mathison},
-  journal={Journal of Mathematics},
-  volume={58},
-  number={345-363},
-  pages={5},
-  year={1936}
+  title={Comparison of Classification Performance of Language Models using Sequence-to-Text Techniques},
+  author={Kim, M., Kim, Y., Min, J., Seong, H., and Jung, Y.},
+  journal={Journal of the Korean Data & Information Science Society.},
+  volume={??},
+  number={???-???},
+  pages={?},
+  year={2024}
 }
 ```
-
