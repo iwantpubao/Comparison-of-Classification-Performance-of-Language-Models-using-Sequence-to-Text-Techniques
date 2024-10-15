@@ -50,7 +50,7 @@
 ---
 
 ## Background
-The paper "On Computable Numbers, with an Application to the Entscheidungsproblem" was published by Alan Turing in 1936. In this groundbreaking paper, Turing introduced the concept of a universal computing machine, now known as the Turing machine.
+활발한 언어 모형의 개발이 진행되고 있으며 다양한 분야에 사용될 수 있습니다. 전통적인 통계학이나 머신러닝 분야에서는 이진 분류에 대한 연구가 활발하게 진행되어왔고, 언어 모형들 역시 동일한 과제를 수행 가능합니다.
 
 ## Objective
 이 논문에서의 주요 목표는 시계열 데이터의 패턴을 언어 모델로 학습하고 분류 예측에 사용하는 것입니다.
@@ -62,8 +62,10 @@ The paper "On Computable Numbers, with an Application to the Entscheidungsproble
 3. 사전 학습된 언어 모델을 HuggingFace로부터 불러와 분류 과제를 학습하여 예측을 수행합니다.
 4. 동일한 정보량이 주어졌을 때, 언어 모델과 머신러닝 모델의 예측 성능을 비교합니다.
 
-<img src="./images/preprocess_figure1.png" alt="sequence-to-text" width="400"/>
-*Figure 1: Data preprocessing from sequence to text. Source: [논문링크](link).*
+<p align="center">
+  <img src="./images/preprocess_figure1.png" alt="sequence-to-text" width="800"/>
+  *Figure 1: Data preprocessing from sequence to text. Source: [논문링크](link).*
+</p>
 
 ## Table: Comparison of Computable and Non-Computable Numbers
 
